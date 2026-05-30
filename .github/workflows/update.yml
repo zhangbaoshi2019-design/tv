@@ -25,7 +25,7 @@ jobs:
       - name: Install dependencies
         run: npm install
       - name: Update internal playlists
-        run: npm run playlist:update --silent >> $GITHUB_OUTPUT
+        run: npm run playlist:update --silent
         id: playlist-update
       - name: Check internal playlists
         run: |
