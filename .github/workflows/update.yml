@@ -12,7 +12,7 @@ jobs:
         with:
           node-version: 22
           cache: 'npm'
-            - name: Update internal playlists
+      - name: Update internal playlists
         run: npm run playlist:update --silent
         id: playlist-update
       - name: Check internal playlists
