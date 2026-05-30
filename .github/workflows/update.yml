@@ -12,12 +12,10 @@ jobs:
         with:
           node-version: 22
           cache: 'npm'
-      - name: Install dependencies
-        run: npm install
-      - name: Update internal playlists
+            - name: Update internal playlists
         run: npm run playlist:update --silent
         id: playlist-update
-            - name: Check internal playlists
+      - name: Check internal playlists
         run: |
           npm run playlist:lint || true
           npm run playlist:validate || true
