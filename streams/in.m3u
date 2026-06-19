@@ -1483,3 +1483,28 @@ http://iptvcasomsapi.jprdigital.in/x-media/C0373/master.m3u8
 http://iptvcasomsapi.jprdigital.in/x-media/C0381/master.m3u8
 #EXTINF:-1 tvg-id="SonyMax.in@SD",Sony Max (576p)
 http://iptvcasomsapi.jprdigital.in/x-media/C0363/master.m3u8
+#EXTINF:-1 tvg-id="NickHDPlus.in@HD",Nick HD+ (1080p)
+http://116.90.120.157:8000/play/a0i3/index.m3u8
+#EXTINF:-1 tvg-id="Pitaara.in@SD",Pitaara (576p)
+http://212.102.34.8:9080/Pitaara/index.m3u8
+#EXTINF:-1 tvg-id="Zoom.in@SD",Zoom (576p)
+https://d2esfk1pb9cdob.cloudfront.net/master.m3u8
+#EXTINF:-1 tvg-id="RupasiBangla.in@SD",Rupasi Bangla (576p)
+https://mumt05.tangotv.in/87NeALx2RUPASIBANGLA/index.m3u8
+#EXTINF:-1 tvg-id="PublicMovies.in@SD",Public Movies (576p)
+https://mumt04.tangotv.in/m18aqlK4PUBLICMOVIES/index.m3u8
+#EXTINF:-1 tvg-id="EpicBharat.in@SD",Epic Bharat (576p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+http://103.175.73.12:8080/live/471/master.m3u8
+#EXTINF:-1 tvg-id="Captain.in@SD",Captain (576p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+http://103.175.73.12:8080/live/173/master.m3u8
+#EXTINF:-1 tvg-id="GoldminesBollywood.in@SD",Goldmines Bollywood (576p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+http://103.175.73.12:8080/live/52/52_0.m3u8
+#EXTINF:-1 tvg-id="ColorsInfinity.in@SD",Colors Infinity (576p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+http://103.175.73.12:8080/live/29/29_0.m3u8
+#EXTINF:-1 tvg-id="ShemarooJosh.in@SD",Shemaroo Josh (576p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+http://103.175.73.12:8080/live/21/21_0.m3u8
