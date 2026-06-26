@@ -121,3 +121,5 @@ https://str.onnetwork.tv/hls/onnet-358726_hi/index.m3u8
 https://liveovh011.cda.pl/P8IjbpepCvx7lF8FyJcdAQ/1755751084/2430238/enc109/wphdraw/wphdraw.m3u8
 #EXTINF:-1 tvg-id="PolsatJimJam.pl@SD",Polsat JimJam (576p)
 https://adpnetworkhd-cmd.github.io/iptv/JimJamPolsat.m3u8
+#EXTINF:-1 tvg-id="TVP3Warszawa.pl@SD",TVP 3 Warszawa (1080p)
+https://raw.githubusercontent.com/seyfettinaskar7-sudo/polish-iptv/refs/heads/main/streams/tvpwarszawa.m3u
