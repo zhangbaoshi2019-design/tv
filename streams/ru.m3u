@@ -237,3 +237,5 @@ http://stream0.tv41.ru/live.m3u8
 https://live-uvelirochka.cdnvideo.ru/uvelirochka/uvelirochka_720p3/playlist.m3u8
 #EXTINF:-1 tvg-id="BelRos.ru@SD",BelRos (720p)
 https://souzny.mediacdn.ru/cdn/souzny/playlist.m3u8
+#EXTINF:-1 tvg-id="Football.ru@SD",Football (576p)
+http://hls127.freeott.top:8080/Football/video.m3u8
