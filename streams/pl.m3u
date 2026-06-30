@@ -123,3 +123,5 @@ https://liveovh011.cda.pl/P8IjbpepCvx7lF8FyJcdAQ/1755751084/2430238/enc109/wphdr
 https://adpnetworkhd-cmd.github.io/iptv/JimJamPolsat.m3u8
 #EXTINF:-1 tvg-id="TVP3Warszawa.pl@SD",TVP 3 Warszawa (1080p)
 https://raw.githubusercontent.com/seyfettinaskar7-sudo/polish-iptv/refs/heads/main/streams/tvpwarszawa.m3u
+#EXTINF:-1 tvg-id="ATMRozrywkaREWORK.pl@HD",ATM Rozrywka REWORK (1080p)
+http://51.38.132.146:8877/ATMRR/index.m3u8
