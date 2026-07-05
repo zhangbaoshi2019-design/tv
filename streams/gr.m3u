@@ -188,3 +188,19 @@ https://streamer-cache.grnet.gr/parliament/hls/webtv3.m3u8
 http://live.cretetv.gr:1935/cretetv/myStream/f1tv.m3u8
 #EXTINF:-1 tvg-id="RIKSat.cy@SD",ΡΙΚ Sat (720p) [Not 24/7]
 http://l3.cloudskep.com/cybcsat/abr/playlist.m3u8
+#EXTINF:-1 tvg-id="MessatidaTV.gr@SD",Messatida TV
+https://rtmp.streams.ovh:8081/mtv/index.m3u8
+#EXTINF:-1 tvg-id="LepantoTV.gr@SD",Lepanto TV
+https://fr.crystalweb.net:1936/lepantotv/lepantotv/playlist.m3u8
+#EXTINF:-1 tvg-id="KosTV.gr@SD",Kos TV
+https://eu1.streams.gr:8081/kostv/index.m3u8
+#EXTINF:-1 tvg-id="HlektraTV.gr@SD",Hlektra TV
+https://live20.bozztv.com/giatv/giatv-hlektratv/hlektratv/playlist.m3u8
+#EXTINF:-1 tvg-id="FORMediaTV.gr@SD",FORMedia TV
+https://mercury.32bit.gr:19360/formediatv/formediatv.m3u8
+#EXTINF:-1 tvg-id="EuroTV.gr@SD",Euro TV
+https://lbgo.bozztv.com/ssh101/ssh101/eurotvlive/playlist.m3u8
+#EXTINF:-1 tvg-id="EpilogesTV.gr@SD",Epiloges TV
+https://gra1.crystalweb.net:1936/epilogestv/epilogestv/playlist.m3u8
+#EXTINF:-1 tvg-id="CreteTV.gr@SD",Crete TV
+https://cretetvlive.siliconweb.com/cretetv/liveabr/playlist.m3u8
