@@ -293,3 +293,5 @@ https://adpnetworkhd-cmd.github.io/iptv/GreatAction.m3u8
 https://setarehhls.wns.live/hls/stream.m3u8
 #EXTINF:-1 tvg-id="EpicDrama.uk@Ukraine",Epic Drama Ukraine
 http://195.189.60.253/118/index.m3u8
+#EXTINF:-1 tvg-id="BBCThree.uk@HD",BBC Three HD (720p)
+http://41.205.77.102/BBC-THREE/index.m3u8
