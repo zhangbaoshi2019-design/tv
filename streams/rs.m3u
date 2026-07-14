@@ -55,3 +55,6 @@ https://stream.pikanal.rs/pikanal/pgm.m3u8
 https://5bc45691ca49f.streamlock.net/tvpirot/uzivo/playlist.m3u8
 #EXTINF:-1 tvg-id="Cinemania.rs@SD",Cinemania
 https://lb.dstvmultimedia.com/Cinemania/index.m3u8
+#EXTINF:-1 tvg-id="DMSat.rs@SD",DM Sat (576p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+https://shift03.isp.bg/MovieStar/index.m3u8
