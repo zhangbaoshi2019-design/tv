@@ -255,3 +255,5 @@ https://cloudvideo.servers10.com:8081/8016/index.m3u8
 https://cloud.fastchannel.es/mic/manifiest/hls/zaztv/zaztv.m3u8
 #EXTINF:-1 tvg-id="UnivisionLatinAmerica.mx@Panregional",Univision Latin America (1080p)
 http://138.121.15.230:9002/UNIVISION/index.m3u8
+#EXTINF:-1 tvg-id="AztecaDeportesNetwork.mx@SD",Azteca Deportes Network (720p)
+http://38.194.226.190:8000/play/a02r/index.m3u8

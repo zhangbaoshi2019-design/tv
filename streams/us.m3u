@@ -1183,3 +1183,9 @@ https://jmc-live.ercdn.net/amutv/amutv.m3u8
 http://40.160.24.56/CBS_NEWS/index.m3u8
 #EXTINF:-1 tvg-id="FoxSports1.us@HD",Fox Sports 1
 http://85.237.89.160:9590/usa-s/FOX-SPORTS-1/index.m3u8
+#EXTINF:-1 tvg-id="Fox.us@East",Fox (720p)
+http://stream.cammonitorplus.net/1752/index.m3u8
+#EXTINF:-1 tvg-id="CBS.us@East",CBS (576p)
+http://tvsen7.aynascope.net/cbs/index.m3u8
+#EXTINF:-1 tvg-id="TeenNick.us@East",TeenNick (576p)
+http://tvsen7.aynascope.net/teennick/index.m3u8
