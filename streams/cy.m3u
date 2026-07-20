@@ -31,3 +31,7 @@ https://sl2.sigmatv.com/hls/live.m3u8
 https://sc-kuzeykibrissmarttv.ercdn.net/tv2020/bantp1/playlist.m3u8
 #EXTINF:-1 tvg-id="VouliTV.cy@SD",Vouli TV (1080p) [Not 24/7]
 https://dev.aftermind.xyz/edge-hls/unitrust/voulitv/index.m3u8?token=8TXWzhY3h6jrzqEqx
+#EXTINF:-1 tvg-id="CytavisionSports2.cy@SD",Cytavision Sports 2
+http://185.102.171.218/Cytavisionsports2/index.m3u8
+#EXTINF:-1 tvg-id="CytavisionSports1.cy@SD",Cytavision Sports 1
+http://185.102.171.218/Cytavisionsports1/index.m3u8
