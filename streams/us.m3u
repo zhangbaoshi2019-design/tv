@@ -1195,3 +1195,7 @@ https://live.nxplay.com.br/DREAMWORKS/index.m3u8
 http://tvsen7.aynascope.net/laff/index.m3u8
 #EXTINF:-1 tvg-id="LifetimeAsia.us@SD",Lifetime Asia (1080p)
 http://nmk.ioapk.com:5050/4gtv-live029/index.m3u8
+#EXTINF:-1 tvg-id="ACCNetwork.us@SD",ACC Network (720p)
+http://23.239.31.26:8989/accnetwork/index.m3u8
+#EXTINF:-1 tvg-id="FuboSportsNetwork.us@SD",Fubo Sports Network (720p)
+https://aegis-cloudfront-1.tubi.video/c2ac89da-5c69-439e-b85d-d87de0548b54/5.m3u8
