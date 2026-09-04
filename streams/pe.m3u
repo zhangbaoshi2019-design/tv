@@ -191,3 +191,5 @@ https://play.agenciastreaming.com:8081/agrotv/index.m3u8
 https://7.innovatestream.pe:19360/zelevetv/zelevetv.m3u8
 #EXTINF:-1 tvg-id="SelvaTV.pe@SD",SelvaTV
 https://videoserver.tmcreativos.com:19360/selvatv/selvatv.m3u8
+#EXTINF:-1 tvg-id="TVPeru.pe@SD",TV Peru
+https://cablered.iptvperu.tv:1936/cablered/tvperu_new/playlist.m3u8
