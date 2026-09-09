@@ -1205,3 +1205,11 @@ http://4.30.180.36:8420/metv/index.m3u8?token=test
 http://4.30.180.36:8420/foxnews/index.m3u8?token=test
 #EXTINF:-1 tvg-id="RadiantTV.us@SD",RadiantTV (1080p)
 https://rpn.bozztv.com/radiant/radiant/radiant/index.m3u8
+#EXTINF:-1 tvg-id="AXNWhite.us@Bulgaria",AXN White Bulgaria (576p)
+http://hls127.freeott.top:8080/BG_AXN_White/video.m3u8
+#EXTINF:-1 tvg-id="AXNBlack.us@Bulgary",AXN Black (576p)
+http://hls127.freeott.top:8080/BG_AXN_Black/video.m3u8
+#EXTINF:-1 tvg-id="Showtime.us@East",Showtime (1080p)
+http://4.30.180.36:8420/showtime/mono.m3u8?token=test
+#EXTINF:-1 tvg-id="UniMas.us@WFUTDT",UniMas WFUT-DT (1080p)
+http://4.30.180.36:8420/wfutdt/mono.m3u8?token=test
