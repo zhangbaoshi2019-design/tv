@@ -303,3 +303,5 @@ http://tvsen7.aynascope.net/nicklodean/index.m3u8
 https://atlantida1.aquax1.cfd/epi/usergendxt1v8klq6rnd.m3u8
 #EXTINF:-1 tvg-id="MTVGlobal.uk@SD",MTV Global (720p)
 http://dvr2.kablova.tv/MTV/index.m3u8
+#EXTINF:-1 tvg-id="PanjabTV.uk@SD",Panjab TV (576p)
+https://panjabtv.akamaized.net/panjabtv/panjabtvhlsout/playlist.m3u8
