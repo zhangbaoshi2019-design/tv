@@ -41,3 +41,11 @@ http://hls127.freeott.top:8080/BG_MAX_Sport_3_HD/video.m3u8
 http://hls127.freeott.top:8080/BG_MAX_Sport_2_HD/video.m3u8
 #EXTINF:-1 tvg-id="MaxSport1.bg@SD",Max Sport 1 (1080p)
 http://hls127.freeott.top:8080/BG_MAX_Sport_1_HD/video.m3u8
+#EXTINF:-1 tvg-id="StarLife.bg@SD",Star Life (720p)
+http://hls127.freeott.top:8080/BG_FOX_Life/video.m3u8
+#EXTINF:-1 tvg-id="StarChannel.bg@SD",Star Channel (720p)
+http://hls127.freeott.top:8080/BG_FOX/video.m3u8
+#EXTINF:-1 tvg-id="StarCrime.bg@SD",Star Crime (720p)
+http://hls127.freeott.top:8080/BG_FOX_Crime/video.m3u8
+#EXTINF:-1 tvg-id="VivacomArena.bg@SD",Vivacom Arena (720p)
+http://hls127.freeott.top:8080/BG_Vivacom_Arena_HD/video.m3u8

@@ -1945,3 +1945,35 @@ https://server.playontv.in/ekhonkolkata/ekhonkolkata/index.m3u8
 https://stream.ottlive.co.in/9plusnews/index.m3u8
 #EXTINF:-1 tvg-id="4SiDESTV.in@SD",4 SiDES TV (1080p)
 https://stream.ottlive.co.in/4sidestv/index.m3u8
+#EXTINF:-1 tvg-id="GTCPunjabi.in@SD",GTC Punjabi (1080p)
+https://cdn.ottlive.co.in/gtcpunjabi/index.m3u8
+#EXTINF:-1 tvg-id="Bharat24.in@SD",Bharat24 (576p)
+https://mumt06.tangotv.in/qYyB8fXVBHARAT24/index.m3u8
+#EXTINF:-1 tvg-id="AajKiKhabar.in@SD",Aaj Ki Khabar (576p)
+https://mumt04.tangotv.in/m18aqlK4AAJKIKHABAR/index.m3u8
+#EXTINF:-1 tvg-id="AnandWariTV.in@SD",Anand Wari TV (576p)
+https://mumt03.tangotv.in/Dsly5z3HANANDWARITV/index.m3u8
+#EXTINF:-1 tvg-id="SarvDharmSangam.in@SD",Sarv Dharm Sangam (576p)
+https://mumt01.tangotv.in/O5aw8Zn3SARAVDHARAMSANGAM/index.m3u8
+#EXTINF:-1 tvg-id="LokshahiNews.in@SD",Lokshahi News (576p)
+https://mumt05.tangotv.in/87NeALx2LOKSAAHI/index.m3u8
+#EXTINF:-1 tvg-id="MakkalTV.in@SD",Makkal TV (576p)
+https://mumt01.tangotv.in/O5aw8Zn3MAKKALTV/index.m3u8
+#EXTINF:-1 tvg-id="SathiyamTV.in@SD",Sathiyam TV (576p)
+https://mumt07.tangotv.in/zHjX9OFlSATHIYAMTV/index.m3u8
+#EXTINF:-1 tvg-id="AyushTV.in@SD",Ayush TV (576p)
+https://mumt07.tangotv.in/zHjX9OFlAYUSHTV/index.m3u8
+#EXTINF:-1 tvg-id="KeralaVision.in@SD",Kerala Vision (576p)
+https://mumt03.tangotv.in/Dsly5z3HKERALAVISION/index.m3u8
+#EXTINF:-1 tvg-id="PowervisionTV.in@SD",Powervision TV (576p)
+https://mumt07.tangotv.in/zHjX9OFlPOWERVISION/index.m3u8
+#EXTINF:-1 tvg-id="GoodnessTV.in@SD",Goodness TV (576p)
+https://mumt07.tangotv.in/zHjX9OFlGOODNESSTV/index.m3u8
+#EXTINF:-1 tvg-id="GSTV.in@SD",GS TV (576p)
+https://cdnplay.peanutsquare.com/560828843292539228453915.m3u8
+#EXTINF:-1 tvg-id="PrarthanaBhawanTV.in@SD",Prarthana Bhawan TV (576p)
+https://mumt03.tangotv.in/Dsly5z3HPRATHANABHAWAN/index.m3u8
+#EXTINF:-1 tvg-id="BhagyamTV.in@SD",Bhagyam TV (576p)
+https://bhagyam.iptv.pics/bhagyam/index.m3u8
+#EXTINF:-1 tvg-id="BhagyamTV.in@SD",Bhagyam TV (1080p)
+https://ott.bhagyam.net/hls/bhagyamweb/index-1409148900-now.m3u8

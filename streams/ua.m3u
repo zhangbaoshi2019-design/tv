@@ -163,3 +163,5 @@ http://hls127.freeott.top:8080/UA_DONBAS/video.m3u8
 http://hls127.freeott.top:8080/BG_Viasat_Kino_HD/video.m3u8
 #EXTINF:-1 tvg-id="UPLTV.ua@SD",UPL.TV
 http://dtv.vol.net.ua/UPL-TV/index.m3u8
+#EXTINF:-1 tvg-id="Svarozhychy.ua@SD",Svarozhychy
+http://svarozhichi.cdn-03.cosmonova.net.ua/mobile-app/main/svarozhichi/master.m3u8

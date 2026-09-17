@@ -36,3 +36,5 @@ http://rtmp.one.by:2300
 https://bozztv.com/dvrfl05/gin-1muscom/index.m3u8
 #EXTINF:-1 tvg-id="STV.by@SD",СТБ (720p)
 https://ctv.dc.beltelecom.by/ctv/ctv.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="FirstMusicChannel.by@SD",First Music Channel
+http://hls127.freeott.top:8080/1mus_HD/video.m3u8
