@@ -138,3 +138,5 @@ https://shls-live-enc.edgenextcdn.net/out/v1/18cffab0757d448ca6c1a686d330b346/in
 https://shls-live-enc.edgenextcdn.net/out/v1/90143f040feb40589d18c57863d9e829/index.m3u8
 #EXTINF:-1 tvg-id="Tarab.sa@SD",Tarab (1080p)
 https://shls-live-mood-ak.akamaized.net/out/v1/90143f040feb40589d18c57863d9e829/index.m3u8
+#EXTINF:-1 tvg-id="Tarab.sa@SD",Tarab (1080p)
+https://shd-amg-fast.edgenextcdn.net/tx002/playlist.m3u8

@@ -1281,3 +1281,27 @@ https://iptv2.intersurtv.cl/AMC/index.m3u8
 http://58.8.186.128:10006/bysid/2615
 #EXTINF:-1 tvg-id="Galavision.us@East",Galavision (720p)
 http://200.115.120.1:8000/play/ca128/index.m3u8
+#EXTINF:-1 tvg-id="KBSAmerica.us@SD",KBS America
+https://xyktmobile00.s.gy/PPV918_KBSAMERI
+#EXTINF:-1 tvg-id="BabyFirst.us@Spanish",BabyFirst Spanish
+https://xyktmobile00.s.gy/PPV915_BABYFIR
+#EXTINF:-1 tvg-id="Galavision.us@West",Galavision West
+https://xyktmobile00.s.gy/PPV914_GALAVISION
+#EXTINF:-1 tvg-id="DreamWorksChannelLatinAmerica.us@Panregional",DreamWorks Channel Latin America
+https://xyktmobile00.s.gy/PPV913_DREAMWO
+#EXTINF:-1 tvg-id="News12PlusLongIsland.us@HD",News12+ Long Island (1080p)
+https://mdc4.ott.alticeusa.net/live4.ott.optimum.net/live4-uploads/N12LH_WEST_A1/index_new.m3u8
+#EXTINF:-1 tvg-id="MiMusicaSalsa.us@SD",Mi Musica Salsa (1080p)
+http://181.78.12.119:16123/play/ch55/index.m3u8
+#EXTINF:-1 tvg-id="MiMusicaRomantica.us@SD",Mi Musica Romantica (1080p)
+http://181.78.12.119:16123/play/ch54/index.m3u8
+#EXTINF:-1 tvg-id="MiMusicaReggaeton.us@SD",Mi Musica Reggaeton (1080p)
+http://181.78.12.119:16123/play/ch53/index.m3u8
+#EXTINF:-1 tvg-id="EWTN.us@SpainLatinAmerica",EWTN Spain & Latin America (480p)
+http://45.167.1.138:8000/play/a01m
+#EXTINF:-1 tvg-id="UniversalCinema.us@SD",Universal Cinema (1080p)
+http://45.167.1.138:8000/play/a06m
+#EXTINF:-1 tvg-id="CinePremium.us@SD",Cine Premium (1080p)
+http://45.167.1.138:8000/play/a06s
+#EXTINF:-1 tvg-id="ConcertChannel.us@SD",Concert Channel (720p)
+http://45.167.1.138:8000/play/a04i

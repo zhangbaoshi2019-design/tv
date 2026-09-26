@@ -193,3 +193,5 @@ https://7.innovatestream.pe:19360/zelevetv/zelevetv.m3u8
 https://videoserver.tmcreativos.com:19360/selvatv/selvatv.m3u8
 #EXTINF:-1 tvg-id="TVPeru.pe@SD",TV Peru
 https://cablered.iptvperu.tv:1936/cablered/tvperu_new/playlist.m3u8
+#EXTINF:-1 tvg-id="AmericaTelevision.pe@SD",America Television
+https://xyktmobile00.s.gy/PPV909_AMERICA_PERU
