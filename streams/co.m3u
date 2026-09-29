@@ -189,3 +189,5 @@ https://streaming5.globalhostla.com/rtplive/unamirad/playlist.m3u8
 http://192.144.113.132:1935/live/ViveTV/playlist.m3u8
 #EXTINF:-1 tvg-id="CableNobsaTV.co@SD",Cable Nobsa TV
 https://eu1.servers10.com:8081/8164/index.m3u8
+#EXTINF:-1 tvg-id="CanalRCN.co@SD",Canal RCN (1080p)
+http://190.60.55.141:9083/play/a0n5/index.m3u8

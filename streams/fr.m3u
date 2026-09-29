@@ -298,3 +298,5 @@ https://mumbai-edge.smartplaytv.in/TraceSport/index.m3u8
 https://mumbai-edge.smartplaytv.in/TraceLatina/index.m3u8
 #EXTINF:-1 tvg-id="FashionTVAsia.fr@SD",FashionTV Asia (720p)
 http://58.8.186.128:10006/bysid/2616
+#EXTINF:-1 tvg-id="Nickelodeon.fr@Plus1",Nickelodeon +1
+https://bin.webhookrelay.com/v1/webhooks/d6e7ac0a-a984-412b-aab7-7a935ce19b6f
