@@ -1305,3 +1305,9 @@ http://45.167.1.138:8000/play/a06m
 http://45.167.1.138:8000/play/a06s
 #EXTINF:-1 tvg-id="ConcertChannel.us@SD",Concert Channel (720p)
 http://45.167.1.138:8000/play/a04i
+#EXTINF:-1 tvg-id="TeleXitos.us@SD",TeleXitos (1080p)
+http://190.197.41.183/TELEXITOS/index.m3u8
+#EXTINF:-1 tvg-id="Fox.us@WSVN",Fox WSVN (1080p)
+http://190.197.41.183/Fox/index.m3u8
+#EXTINF:-1 tvg-id="NBC.us@WTLV",NBC WTLV (1080p)
+http://190.197.41.183/NBC/index.m3u8
