@@ -554,3 +554,5 @@ https://janus.xpbroadcasting.com:8443/hls/xptvUS.m3u8
 https://rmtv.akamaized.net/hls/live/2043154/rmtv-en-web/bitrate_3.m3u8
 #EXTINF:-1 tvg-id="Tac12.es@SD",Tac12
 https://ingest1-video.streaming-pro.com/tac12_ABR/stream/tacdotze/srtweb_1080/chunks.m3u8
+#EXTINF:-1 tvg-id="La1.es@SD",La 1 (1080p)
+https://rtvelivestream.rtve.es/rtvesec/la1/la1_main_dvr.m3u8

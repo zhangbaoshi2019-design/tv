@@ -230,3 +230,14 @@ http://190.61.101.11:7050/play/a09s/index.m3u8?hls
 http://38.44.109.41:8003/play/a02l/index.m3u8
 #EXTINF:-1 tvg-id="NeoxTV.ar@SD",Neox TV
 https://tv.streamcasthd.com:3031/live/neoxtvlive.m3u8
+#EXTINF:-1 tvg-id="Canal7TV.ar@SD",Canal 7 TV (576p)
+https://k-fra32.x10.network/Clrs/test/hls/1158394/playlist.m3u8
+#EXTINF:-1 tvg-id="Canal4Posadas.ar@SD",Canal 4 Posadas (1080p)
+http://190.128.214.97:64333/play/a06l/index.m3u8
+#EXTINF:-1 tvg-id="Aunar.ar@SD",Aunar (1080p)
+http://190.128.214.97:64333/play/a057/index.m3u8
+#EXTINF:-1 tvg-id="LAMIL35TV.ar@SD",LAMIL35 TV (720p)
+#EXTVLCOPT:http-referrer=https://www.lamil35.com.ar/
+https://vtm2.msinteractiva.com/lamil35/lamil35/playlist.m3u8
+#EXTINF:-1 tvg-id="RockPop.ar@SD",Rock & Pop (1080p)
+http://190.128.214.97:64333/play/a032/index.m3u8

@@ -1311,3 +1311,17 @@ http://190.197.41.183/TELEXITOS/index.m3u8
 http://190.197.41.183/Fox/index.m3u8
 #EXTINF:-1 tvg-id="NBC.us@WTLV",NBC WTLV (1080p)
 http://190.197.41.183/NBC/index.m3u8
+#EXTINF:-1 tvg-id="MaxcineKids.us@HD",Maxcine Kids (720p)
+https://live20.bozztv.com/giatvplayout7/giatv-209909/playlist.m3u8
+#EXTINF:-1 tvg-id="MaxcineFamily.us@HD",Maxcine Family (720p)
+https://live20.bozztv.com/giatvplayout7/giatv-208817/playlist.m3u8
+#EXTINF:-1 tvg-id="MaxcineComedy.us@HD",Maxcine Comedy (720p)
+https://live20.bozztv.com/giatvplayout7/giatv-208730/playlist.m3u8
+#EXTINF:-1 tvg-id="Maxcine.us@HD",Maxcine (720p)
+https://live20.bozztv.com/giatvplayout7/giatv-208138/playlist.m3u8
+#EXTINF:-1 tvg-id="AMCSeriesLatinAmerica.us@Panregional",AMC Series Latin America (1080p)
+http://45.171.64.30:6060/play/a005/index.m3u8
+#EXTINF:-1 tvg-id="MBC3USA.us@SD",MBC 3 USA
+#EXTVLCOPT:http-referrer=https://cdn.stmify.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36
+https://sh.cdn1-stmify.workers.dev/out/v1/MBC_3_USA/index.m3u8
