@@ -259,3 +259,5 @@ http://138.121.15.230:9002/UNIVISION/index.m3u8
 http://38.194.226.190:8000/play/a02r/index.m3u8
 #EXTINF:-1 tvg-id="History.mx@SD",History
 http://138.186.23.7:8082/HISTORY/index.m3u8
+#EXTINF:-1 tvg-id="DiscoveryHomeHealthLatinAmerica.mx@Panregional",Discovery Home & Health Latin America (1080p)
+http://168.196.127.137:6001/play/a09v/index.m3u8
