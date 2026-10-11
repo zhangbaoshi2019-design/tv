@@ -191,3 +191,5 @@ http://192.144.113.132:1935/live/ViveTV/playlist.m3u8
 https://eu1.servers10.com:8081/8164/index.m3u8
 #EXTINF:-1 tvg-id="CanalRCN.co@SD",Canal RCN (1080p)
 http://190.60.55.141:9083/play/a0n5/index.m3u8
+#EXTINF:-1 tvg-id="SinLimites.co@SD",Sin Limites (1080p)
+http://170.244.209.30:8000/play/a1im/index.m3u8
