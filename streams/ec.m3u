@@ -165,3 +165,5 @@ https://video2.makrodigital.com/zaracay/zaracay/playlist.m3u8
 https://7.innovatestream.pe:19360/ecuadortest/ecuadortest.m3u8
 #EXTINF:-1 tvg-id="StudioPlusTV.ec@HD",Studio + TV (1080p)
 https://vd01.streaminghd.net.ar:3113/hybrid/play.m3u8
+#EXTINF:-1 tvg-id="MaxivisionCanal8.ec@SD",Maxivision Canal 8 (1080p)
+http://181.119.97.124:8080/play/a00w/index.m3u8

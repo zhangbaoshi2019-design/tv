@@ -141,3 +141,7 @@ https://acceso.radiosportstv.online:3022/stream/play.m3u8
 https://videoserver.tmcreativos.com:19360/gesfnvpamn/gesfnvpamn.m3u8
 #EXTINF:-1 tvg-id="Enlace.cr@SD",Enlace (1080p)
 http://201.207.54.159:8000/play/a0ea/index.m3u8
+#EXTINF:-1 tvg-id="XperTV.cr@SD",XperTV (1080p)
+http://45.163.139.42:8000/play/a02x/index.m3u8
+#EXTINF:-1 tvg-id="VMLatino.cr@SD",VM Latino (1080p)
+http://45.163.139.42:8000/play/a03d/index.m3u8

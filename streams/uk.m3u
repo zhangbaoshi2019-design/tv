@@ -316,3 +316,5 @@ http://hls127.freeott.top:8080/BG_The_World/video.m3u8
 https://web-primeprimetv2026.onrender.com/playlist.m3u8
 #EXTINF:-1 tvg-id="StarBharat.uk@SD",Star Bharat (576p)
 https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main/streams/gb/YuppTV/UtsavBharat.m3u8
+#EXTINF:-1 tvg-id="CartoonitoCEE.uk@Poland",Cartoonito CEE Poland
+http://57.128.231.171:8080/303/index.m3u8
