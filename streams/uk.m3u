@@ -318,3 +318,11 @@ https://web-primeprimetv2026.onrender.com/playlist.m3u8
 https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main/streams/gb/YuppTV/UtsavBharat.m3u8
 #EXTINF:-1 tvg-id="CartoonitoCEE.uk@Poland",Cartoonito CEE Poland
 http://57.128.231.171:8080/303/index.m3u8
+#EXTINF:-1 tvg-id="AMCEurope.uk@Poland",AMC Europe Poland (576i)
+http://57.128.231.171:8080/318/index.m3u8
+#EXTINF:-1 tvg-id="BBCFirst.uk@Poland",BBC First (1080p)
+http://57.128.231.171:8080/306/index.m3u8
+#EXTINF:-1 tvg-id="DiscoveryScienceEurope.uk@Poland",Discovery Science Europe Poland (1080p)
+http://57.128.231.171:8080/279/index.m3u8
+#EXTINF:-1 tvg-id="CNBCEurope.uk@SD",CNBC Europe (1080p)
+http://57.128.231.171:8080/234/index.m3u8

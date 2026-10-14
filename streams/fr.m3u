@@ -306,3 +306,5 @@ https://masterofiptv.s.gy/iptv2/nickelodeon_junior_fr.m3u8
 https://masterofiptv.s.gy/iptv2/nicktoons_fr.m3u8
 #EXTINF:-1 tvg-id="Nickelodeon.fr@SD",Nickelodeon
 https://masterofiptv.s.gy/iptv2/nickelodeon_fr.m3u8
+#EXTINF:-1 tvg-id="Eurosport1.fr@Germany",Eurosport 1 Germany
+https://lb.iptvnetwork.net/ls28/10806/playlist.m3u8
