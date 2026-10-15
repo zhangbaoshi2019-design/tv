@@ -138,3 +138,5 @@ https://cloud.fastchannel.es/manifiest/hls/prog9/vepacotv.m3u8
 https://ott3.streann.com/loadbalancer/services/public/channels/5d23d5882cdce61dae029fd8/playlist.m3u8
 #EXTINF:-1 tvg-id="eSportsMaxTV.ve@SD",eSports Max TV
 https://cdnlive.klicgo.net/esportsmax/live/playlist_dvr.m3u8
+#EXTINF:-1 tvg-id="TVOasisMonay.ve@SD",TV Oasis Monay (1080i)
+https://live.teve.pro/live/tvoasis/index.m3u8

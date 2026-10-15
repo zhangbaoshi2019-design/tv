@@ -496,3 +496,5 @@ https://mumbai-edge.smartplaytv.in/BloombergHT/index.m3u8
 https://mumbai-edge.smartplaytv.in/TRTWorld/index.m3u8
 #EXTINF:-1 tvg-id="TRTBelgesel.tr@SD",TRT Belgesel (1080p)
 http://hls127.freeott.top:8080/TRT_BELGESEL_TR/video.m3u8
+#EXTINF:-1 tvg-id="TurksatTanitim.tr@SD",Turksat Tanitim (1080p)
+http://176.65.153.26:6004/play/a02s/index.m3u8
