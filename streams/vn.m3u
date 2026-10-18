@@ -127,3 +127,5 @@ https://javiptv.s.gy/vtv1hd-thvn
 http://tldigital-17th06day-tl9648290.duckdns.org/tv.m3u8
 #EXTINF:-1 tvg-id="AnNinhTV.vn@HD",An Ninh TV HD (1080p)
 https://freem3u.xyz/api/live/play.m3u8?vid=20
+#EXTINF:-1 tvg-id="KonTumTV.vn@SD",Kon Tum TV (720p)
+https://247.dpdns.org/module/IPTV/?id=QNgTV2&accKenh=vuminhthanh1
