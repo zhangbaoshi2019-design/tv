@@ -129,3 +129,5 @@ http://tldigital-17th06day-tl9648290.duckdns.org/tv.m3u8
 https://freem3u.xyz/api/live/play.m3u8?vid=20
 #EXTINF:-1 tvg-id="KonTumTV.vn@SD",Kon Tum TV (720p)
 https://247.dpdns.org/module/IPTV/?id=QNgTV2&accKenh=vuminhthanh1
+#EXTINF:-1 tvg-id="QuangNinhTV3.vn@SD",Quang Ninh TV 3 (720p)
+https://live.baoquangninh.vn/qtvlive/tv3live.m3u8
