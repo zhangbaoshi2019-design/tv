@@ -588,3 +588,7 @@ https://hostemea1236.s.gy/italia/nikc/23/32/93/locos.m3u8
 https://streaming.aurora.enhanced.live/live/mpc/enl0eG1mLmVncmVzcy5mZDJ2eHI=/out/v1/IT_SIMULCAST/TURBO/CMAF/index.m3u8
 #EXTINF:-1 tvg-id="RaiMovie.it@HD",Rai Movie HD (1080p)
 http://team-tv.co:81/raimovie/index.m3u8
+#EXTINF:-1 tvg-id="NickJr.it@SD",Nick Jr.
+https://streamer-jv9.pages.dev/italy/nickjr.m3u
+#EXTINF:-1 tvg-id="RaiGulp.it@SD",Rai Gulp (1080p)
+http://5.180.164.197:8080/RAIGULP/index.m3u8

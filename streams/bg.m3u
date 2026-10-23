@@ -49,3 +49,5 @@ http://hls127.freeott.top:8080/BG_FOX/video.m3u8
 http://hls127.freeott.top:8080/BG_FOX_Crime/video.m3u8
 #EXTINF:-1 tvg-id="VivacomArena.bg@SD",Vivacom Arena (720p)
 http://hls127.freeott.top:8080/BG_Vivacom_Arena_HD/video.m3u8
+#EXTINF:-1 tvg-id="Nickelodeon.bg@SD",Nickelodeon
+http://87.120.179.187:8000/play/a00x
