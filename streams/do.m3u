@@ -496,3 +496,9 @@ https://183.giatvcdn.com/giatvplayout7/giatv-208314/playlist.m3u8
 https://183.giatvcdn.com/giatvplayout7/giatv-208343/playlist.m3u8
 #EXTINF:-1 tvg-id="LaVozdeJesusHD.do@HD",La Voz de Jesus HD (720p)
 https://183.giatvcdn.com/giatvplayout7/giatv-208429/playlist.m3u8
+#EXTINF:-1 tvg-id="BebetoTV.do@SD",Bebeto TV (1080p)
+https://cloud5.livescast.com:19360/bebetotv/bebetotv.m3u8
+#EXTINF:-1 tvg-id="TelenewsTV.do@SD",Telenews TV (1080p)
+https://stream1.28tv.online/TeleNewsCanal40/index.m3u8
+#EXTINF:-1 tvg-id="VillaAltagraciaTV.do@SD",Villa Altagracia TV (1080p)
+https://cdn.streamrd.cloud/watch/villa-altagracia-tv.m3u8
