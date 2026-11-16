@@ -310,3 +310,23 @@ https://masterofiptv.s.gy/iptv2/nickelodeon_fr.m3u8
 https://lb.iptvnetwork.net/ls28/10806/playlist.m3u8
 #EXTINF:-1 tvg-id="arte.fr@SD",arte (720p)
 https://c9851ec-rbm-hilv-fsly.cdn.redbee.live/L5/3264727f/d0a3cb71.isml/.m3u8
+#EXTINF:-1 tvg-id="Teva.fr@SD",Teva
+https://r.eu.cdn-redge.media/livehls/oeu/mt/live/teva/live.livx/playlist.m3u8
+#EXTINF:-1 tvg-id="Action.fr@SD",Action
+https://r.eu.cdn-redge.media/livehls/oeu/mt/live/action/live.livx/playlist.m3u8
+#EXTINF:-1 tvg-id="W9.fr@SD",W9
+https://r.eu.cdn-redge.media/livehls/oeu/mt/live/w9_fr/live.livx/playlist.m3u8
+#EXTINF:-1 tvg-id="TMC.fr@SD",TMC
+https://r.eu.cdn-redge.media/livehls/oeu/mt/live/tmc_fr/live.livx/playlist.m3u8
+#EXTINF:-1 tvg-id="AB1.fr@SD",AB1
+https://r.eu.cdn-redge.media/livehls/oeu/mt/live/ab1/live.livx/playlist.m3u8
+#EXTINF:-1 tvg-id="ParisPremiere.fr@SD",Paris Premiere
+https://r.eu.cdn-redge.media/livehls/oeu/mt/live/paris_premiere/live.livx/playlist.m3u8
+#EXTINF:-1 tvg-id="France3.fr@CotedAzur",France 3 Cote d'Azur
+https://r.eu.cdn-redge.media/livehls/oeu/mt/live/france_3_nice/live.livx/playlist.m3u8
+#EXTINF:-1 tvg-id="TF1.fr@SD",TF1
+https://r.eu.cdn-redge.media/livehls/oeu/mt/live/tf1/live.livx/playlist.m3u8
+#EXTINF:-1 tvg-id="TV5MondeInfo.fr@SD",TV5Monde Info (1080p)
+http://c9851ec-rbm-hilv-fsly.cdn.redbee.live/L4/b21193ce/2ee2c40a.isml/.m3u8
+#EXTINF:-1 tvg-id="ComedyCentral.fr@HD",Comedy Central HD
+https://r.eu.cdn-redge.media/livehls/oeu/mt/live/comedy_central_en/live.livx/playlist.m3u8

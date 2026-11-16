@@ -1399,3 +1399,11 @@ https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/HBO/chunks.m3u8
 https://hls.botflix.tv/radioo/index.m3u8
 #EXTINF:-1 tvg-id="BotflixTV.us@HD",Botflix TV (1080p)
 https://hls.botflix.tv/tv/index.m3u8
+#EXTINF:-1 tvg-id="Nickelodeon.us@East",Nickelodeon
+#EXTVLCOPT:http-referrer=https://tvnow.st/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
+https://cache0.wonvt.st/live/1ewxgzu023dos60vlh62k/master.m3u8
+#EXTINF:-1 tvg-id="TomSingsTV.us@HD",Tom Sings TV (576p)
+https://ia600505.us.archive.org/34/items/live_tstv/tomsingstv.m3u8
+#EXTINF:-1 tvg-id="ComedyCentralLatinAmerica.us@Panregional",Comedy Central Latin America (1080p)
+http://190.93.224.42/COMEDY-CENTRAL/index.m3u8

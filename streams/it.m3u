@@ -631,3 +631,9 @@ http://185.227.34.62/stream/17/index.m3u8
 #EXTINF:-1 tvg-id="Italia1.it@HD",Italia 1 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
 http://185.227.34.62/stream/21/index.m3u8
+#EXTINF:-1 tvg-id="MediasetExtra.it@SD",Mediaset Extra
+https://r.eu.cdn-redge.media/livehls/oeu/mt/live/mediaset_extra/live.livx/playlist.m3u8
+#EXTINF:-1 tvg-id="HorseTV.it@SD",Horse TV (576p)
+https://cdn78-at.azotosolutions.com/cdnedge39/Canale4/master.m3u8
+#EXTINF:-1 tvg-id="NauticalChannel.it@SD",Nautical Channel (576p)
+https://cdn78-at.azotosolutions.com/cdnedge39/Canale2/master.m3u8
