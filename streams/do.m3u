@@ -502,3 +502,5 @@ https://cloud5.livescast.com:19360/bebetotv/bebetotv.m3u8
 https://stream1.28tv.online/TeleNewsCanal40/index.m3u8
 #EXTINF:-1 tvg-id="VillaAltagraciaTV.do@SD",Villa Altagracia TV (1080p)
 https://cdn.streamrd.cloud/watch/villa-altagracia-tv.m3u8
+#EXTINF:-1 tvg-id="CDN.do@HD",CDN HD (1080p)
+https://cdn4.wind.do/streams/cdn37/cdn37_master.m3u8

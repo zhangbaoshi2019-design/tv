@@ -193,3 +193,5 @@ https://eu1.servers10.com:8081/8164/index.m3u8
 http://190.60.55.141:9083/play/a0n5/index.m3u8
 #EXTINF:-1 tvg-id="SinLimites.co@SD",Sin Limites (1080p)
 http://170.244.209.30:8000/play/a1im/index.m3u8
+#EXTINF:-1 tvg-id="SalsaGordaTelevision.co@SD",Salsa Gorda Television (1080p)
+https://stmv1.voxtvhd.com.br/salsagorda/salsagorda/playlist.m3u8
