@@ -2103,3 +2103,7 @@ http://111.88.7.92:8000/play/a051/index.m3u8
 https://samitaorigin.tangotv.in/CHAUKASTV/SAMITAORIGIN/index.m3u8
 #EXTINF:-1 tvg-id="NonStopBharat.in@SD",Non Stop Bharat (576p)
 https://mumt07.tangotv.in/zHjX9OFlCHAUKASTV/index.m3u8
+#EXTINF:-1 tvg-id="SonySportsTen1.in@SD",Sony Sports Ten 1 (576p)
+http://116.90.120.149:8000/play/a126/index.m3u8
+#EXTINF:-1 tvg-id="SonySAB.in@HD",Sony SAB HD (1080p)
+http://116.90.120.149:8000/play/a128/index.m3u8
