@@ -2107,3 +2107,5 @@ https://mumt07.tangotv.in/zHjX9OFlCHAUKASTV/index.m3u8
 http://116.90.120.149:8000/play/a126/index.m3u8
 #EXTINF:-1 tvg-id="SonySAB.in@HD",Sony SAB HD (1080p)
 http://116.90.120.149:8000/play/a128/index.m3u8
+#EXTINF:-1 tvg-id="MahimaiTV.in@SD",Mahimai TV (1080p)
+https://ktismaservers.in:3161/live/mahimaitvlive.m3u8

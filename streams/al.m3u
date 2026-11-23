@@ -39,3 +39,5 @@ https://protokolldns.xyz/johaniterweb44547dsd/index.m3u8
 http://valashop.online:8090/fieritv.m3u8
 #EXTINF:-1 tvg-id="A2CNN.al@SD",A2 CNN
 https://tv.a2news.com/live/smil:a2cnnweb.stream.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="FieriTv.al@HD",Fieri Tv (1080p)
+https://live.fieritv.com/hls/fieritv/index.m3u8
