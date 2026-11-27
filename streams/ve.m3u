@@ -140,3 +140,13 @@ https://ott3.streann.com/loadbalancer/services/public/channels/5d23d5882cdce61da
 https://cdnlive.klicgo.net/esportsmax/live/playlist_dvr.m3u8
 #EXTINF:-1 tvg-id="TVOasisMonay.ve@SD",TV Oasis Monay (1080i)
 https://live.teve.pro/live/tvoasis/index.m3u8
+#EXTINF:-1 tvg-id="Televen.ve@SD",Televen (480p)
+http://200.59.191.177:8000/play/a00k/index.m3u8
+#EXTINF:-1 tvg-id="Venevision.ve@SD",Venevision (480p)
+http://200.59.191.177:8000/play/a0li/index.m3u8
+#EXTINF:-1 tvg-id="Globovision.ve@SD",Globovision (480p)
+http://200.59.191.177:8000/play/a0lh/index.m3u8
+#EXTINF:-1 tvg-id="VenezolanadeTelevision.ve@SD",Venezolana de Television (480p)
+http://200.59.191.177:8000/play/a0l5/index.m3u8
+#EXTINF:-1 tvg-id="ShowVenTV.ve@SD",ShowVen TV (480p)
+http://200.59.191.177:8000/play/a0lf/index.m3u8

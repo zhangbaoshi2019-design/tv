@@ -1405,3 +1405,5 @@ https://ia600505.us.archive.org/34/items/live_tstv/tomsingstv.m3u8
 http://190.93.224.42/COMEDY-CENTRAL/index.m3u8
 #EXTINF:-1 tvg-id="WarnerChannel.us@Panregional",Warner Channel (720p)
 http://181.78.197.59:8000/play/a07s/index.m3u8
+#EXTINF:-1 tvg-id="NickJr.us@East",Nick Jr. (720p)
+https://chunk.tvnow247.today/api/proxy/playlist?token=eyJjaGFubmVsSWQiOiIzMjkiLCJjaGFpbiI6InIyIiwidHMiOjE3OTU1Mzc2NjY0OTZ9
