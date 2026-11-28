@@ -36,3 +36,5 @@ https://stream.az-multimedia.com:3325/live/foryoutvlive.m3u8
 https://streamtv.acerfi.net/hls/acerfitv/index.m3u8
 #EXTINF:-1 tvg-id="ACNTV.cm@SD",ACN TV
 https://cdn.acnlive.net/LiveApp/streams/hold_the_line.m3u8
+#EXTINF:-1 tvg-id="DreamChannel.cm@SD",Dream Channel (1080p)
+https://webtv.dreamtv.cm/memfs/e4f1dd84-8a47-4164-add4-d024efd9a1fa.m3u8

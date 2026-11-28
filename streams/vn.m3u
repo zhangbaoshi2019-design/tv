@@ -127,3 +127,5 @@ https://247.dpdns.org/module/IPTV/?id=QNgTV2&accKenh=vuminhthanh1
 https://live.baoquangninh.vn/qtvlive/tv3live.m3u8
 #EXTINF:-1 tvg-id="VTV4.vn@HD",VTV4 HD (720p)
 https://vtvgolive-sctvdrm.vtvdigital.vn/manifest/vtv4/master.m3u8
+#EXTINF:-1 tvg-id="VTV3.vn@SD",VTV3 (576p)
+http://125hvt.ddns.net:21585/vtv3/playlist.m3u8
